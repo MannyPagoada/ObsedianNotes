@@ -6,4 +6,6 @@
 			- A computer to download and flash proxmox
 			- A spare computer to install proxmox on
 			- Eithernet cable
+	1. Install [Proxmox](https://www.proxmox.com/en/downloads)
+	2. 
 # Challenges
