@@ -6,6 +6,12 @@ This will require a couple of things:
 			- A computer to download and flash proxmox
 			- A spare computer to install proxmox on
 			- Ethernet cable
+
 	1. Install [Proxmox](https://www.proxmox.com/en/downloads)
-	2. Install 
+	2. Install an ISO burner
+	3. Burn the proxmox iso onto the usb
+	4. Plug in the usb to the computer and go into your bios
+	5. Make sure you enable virtulization within the bios menu before contuining. 
+	6. Load up the boot order and choose the usb
+	7. Follow steps in the instalation
 # Challenges
